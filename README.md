@@ -11,4 +11,8 @@
 
 ## Result
 (AI) 21:2 (My agent)
- 
+
+
+
+![?](https://github.com/PaangG13/Reinforcement-Learning/blob/main/ouput.gif "Result")
+
