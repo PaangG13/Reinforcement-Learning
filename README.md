@@ -10,7 +10,7 @@
   Deep Q-Leaning Network (DQN)
 
 ## Result
-(AI) 21:4 (My agent)
+(AI) 21:2 (My agent)
 
 
 
